@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @alexchyador82
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @alexchyador82  
+👀 I’m interested in Cybersecurity and Ethical Hacking  
+🌱 I’m currently learning advanced Facebook security and ethical hacking tools  
+💞️ I’m looking to collaborate on cybersecurity projects  
+📫 How to reach me: alexcyber@protonmail.com  
+😎 Pronouns: He/Him  
+⚡ Fun fact: I love digging into systems and uncovering how they work!
 
-<!---
-alexchyador82/alexchyador82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Logo](https://raw.githubusercontent.com/alexchyador82/alexchyador82/main/logo.png)
